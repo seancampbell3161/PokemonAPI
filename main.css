@@ -30,6 +30,7 @@ body {
 
 .pokemon .details {
     display: flex;
+    flex-direction: column;
     justify-content: space-between;
     margin: 1em 0 0;
 }
